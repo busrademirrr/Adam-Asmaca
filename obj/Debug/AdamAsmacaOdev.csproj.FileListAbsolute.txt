@@ -1,0 +1,10 @@
+C:\Users\HP-PC\source\repos\AdamAsmacaOdev\AdamAsmacaOdev\obj\Debug\AdamAsmacaOdev.csprojAssemblyReference.cache
+C:\Users\HP-PC\source\repos\AdamAsmacaOdev\AdamAsmacaOdev\obj\Debug\AdamAsmacaOdev.Form1.resources
+C:\Users\HP-PC\source\repos\AdamAsmacaOdev\AdamAsmacaOdev\obj\Debug\AdamAsmacaOdev.Properties.Resources.resources
+C:\Users\HP-PC\source\repos\AdamAsmacaOdev\AdamAsmacaOdev\obj\Debug\AdamAsmacaOdev.csproj.GenerateResource.cache
+C:\Users\HP-PC\source\repos\AdamAsmacaOdev\AdamAsmacaOdev\obj\Debug\AdamAsmacaOdev.csproj.CoreCompileInputs.cache
+C:\Users\HP-PC\source\repos\AdamAsmacaOdev\AdamAsmacaOdev\bin\Debug\AdamAsmacaOdev.exe.config
+C:\Users\HP-PC\source\repos\AdamAsmacaOdev\AdamAsmacaOdev\bin\Debug\AdamAsmacaOdev.exe
+C:\Users\HP-PC\source\repos\AdamAsmacaOdev\AdamAsmacaOdev\bin\Debug\AdamAsmacaOdev.pdb
+C:\Users\HP-PC\source\repos\AdamAsmacaOdev\AdamAsmacaOdev\obj\Debug\AdamAsmacaOdev.exe
+C:\Users\HP-PC\source\repos\AdamAsmacaOdev\AdamAsmacaOdev\obj\Debug\AdamAsmacaOdev.pdb
